@@ -3,7 +3,7 @@ This is my submission for MIDAS@IIITD Summer Internship/RA Task 2021
 
 Name - Vaibhav Malhotra 
 
-Email - vaibhavmalhotra99@gmail.com
+Email - vmalhotra_be18@thapar.edu
 
 I have completed the second task of creating a CNN.
 The libraries needed for the development environment are
