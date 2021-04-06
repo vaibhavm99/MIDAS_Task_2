@@ -13,5 +13,9 @@ The libraries needed for the development environment are
 - scikit learn
 - tensorflow
 - datetime
+- idx2numpy
+- wget
+- matplotlib
+
 
 The code is writted in python and run in python@3.8.
